@@ -119,8 +119,8 @@ def data_upload(data_file_path):
     @param data_file_path: The path to the data file
     """
     # Set your AWS credentials
-    AWS_ACCESS_KEY_ID = "AKIAZL6JC45DNGNEC2GL"
-    AWS_SECRET_ACCESS_KEY = "F8UbNWoFOxHqgHLNx6JGCvP5RFsIkY+2IDuhk6sU"
+    AWS_ACCESS_KEY_ID = "X"
+    AWS_SECRET_ACCESS_KEY = "X"
     AWS_REGION = "ca-central-1"
     BUCKET_NAME = "project-iottest"
     LOCAL_FILE_PATH = data_file_path   # Update with your local CSV file path
